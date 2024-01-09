@@ -26,5 +26,5 @@ setoolkit:
 
 OutPut:
 
-![Alt text](IMG_4832.png)
+![Alt text](IMG_4832.PNG)
 
