@@ -25,3 +25,6 @@ setoolkit:
 8° - URL para clone: http://www.facebook.com
 
 OutPut:
+
+![Alt text](IMG_4832.png)
+
